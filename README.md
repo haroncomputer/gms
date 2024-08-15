@@ -61,4 +61,4 @@ Gym Management System is a web application that allows gym owners to manage thei
 
 ## License
 
-GNU GPL V3. (See [license.txt](license.txt) for more information).
+GNU GPL V3. (See [LICENSE](LICENSE) for more information).
