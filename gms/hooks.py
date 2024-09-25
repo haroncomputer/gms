@@ -74,8 +74,8 @@ after_install = "gms.install.after_install"
 # Uninstallation
 # ------------
 
-# before_uninstall = "gms.uninstall.before_uninstall"
-# after_uninstall = "gms.uninstall.after_uninstall"
+before_uninstall = "gms.uninstall.before_uninstall"
+after_uninstall = "gms.uninstall.after_uninstall"
 
 # Integration Setup
 # ------------------
